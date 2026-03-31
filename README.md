@@ -1,14 +1,9 @@
 # 💫 About Me:
-🔭 Building cross-platform mobile apps with React Native (performance, clean UI, scalable architecture)
-
-👯 Open to collaborating on React Native apps, UI/UX-focused projects & startup ideas
-
-🤝 Exploring advanced optimizations, native modules & production scaling
-
-🌱 Learning advanced React Native, performance tuning & AI/ML integration in mobile apps
-
-💬 Ask me about React Native, JavaScript, mobile development, debugging & architecture
-
+🔭 Building cross-platform mobile apps with React Native (performance, clean UI, scalable architecture)<br>
+👯 Open to collaborating on React Native apps, UI/UX-focused projects & startup ideas<br>
+🤝 Exploring advanced optimizations, native modules & production scaling<br>
+🌱 Learning advanced React Native, performance tuning & AI/ML integration in mobile apps<br>
+💬 Ask me about React Native, JavaScript, mobile development, debugging & architecture<br>
 ⚡ Fun fact: I can spend hours debugging a single issue… and still enjoy it 😅
 
 
